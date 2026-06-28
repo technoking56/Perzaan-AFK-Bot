@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": techno-smp.aternos.me
-    "port": 59902
-    "version": "1.21.11
+    "ip": "techno-smp.aternos.me"
+    "port": "59902"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
